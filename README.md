@@ -41,6 +41,5 @@ plt.ylabel('Predicted Yearly Amount Spent')
 plt.title('Actual vs Predicted Yearly Amount Spent')
 plt.savefig('scatter_plot.png')  # Save the plot as an image
 plt.show()
-![Scatter Plot](scatter_plot.png)
 
 
